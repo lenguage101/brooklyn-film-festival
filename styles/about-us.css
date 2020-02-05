@@ -1,0 +1,9 @@
+.container-article{
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+
+.newsTitle {
+	margin: 35px 0;
+	color: rgba(236, 179, 62, .9);
+}
